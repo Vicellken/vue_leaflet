@@ -1,4 +1,10 @@
-# demo2
+# Demo for VR Rockyshore
+</br>
+
+### This project use native Leaflet. Alternative approach is vue2-leaflet.
+
+### The final project will integrate with Element-UI & Echarts for advanced data visualisation.
+</br>
 
 ## Project setup
 ```
